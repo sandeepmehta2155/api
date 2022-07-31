@@ -1,22 +1,40 @@
-{
-    "employees": [
-      {
-        "id": 1,
-        "first_name": "Sebastian",
-        "last_name": "Eschweiler",
-        "email": "sebastian@codingthesmartway.com"
-      },
-      {
-        "id": 2,
-        "first_name": "Steve",
-        "last_name": "Palmer",
-        "email": "steve@codingthesmartway.com"
-      },
-      {
-        "id": 3,
-        "first_name": "Ann",
-        "last_name": "Smith",
-        "email": "ann@codingthesmartway.com"
-      }
+ { 
+    "products" : [
+        {   
+            "id" : 1,
+            "name" : "Samsung m40",
+            "color" : "midnight-black",
+            "price" : 140000,
+            "brand" : "Samsung",
+            "category" : "Mobile",
+            "img" : "https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyM20__1_.JPG"
+        },
+        {   
+            "id" : 2,
+            "name" : "Samsung f20",
+            "color" : "midnight-black",
+            "price" : 140000,
+            "brand" : "Samsung",
+            "category" : "Mobile",
+            "img" : "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e225fzkdins/gallery/in-galaxy-f-sm-e225fzkdins-sm-e---fzkhins-470145932?$2052_1641_PNG$"
+        },
+        {
+            "id" : 3,
+            "name" :"Iphone 12",
+            "color" : "mid-light gray",
+            "price" : 1000000,
+            "brand" : "Apple",
+            "category" : "Mobile",
+            "img" : "https://www.myimaginestore.com/media/mf_webp/jpg/media/catalog/product/cache/4a48ac28cbb6e9c41470e5be5a6d3043/i/p/iphone_13_green_pdp_image_position-9_avail__en-in_copy_8_1.webp"
+        },
+        {
+            "id" : 4,
+            "name" :"Iphone 13 pro",
+            "color" : "mid-light gray",
+            "price" : 1000000,
+            "brand" : "Apple",
+            "category" : "Mobile",
+            "img" : "https://www.myimaginestore.com/media/mf_webp/jpg/media/catalog/product/cache/4a48ac28cbb6e9c41470e5be5a6d3043/i/p/iphone-13-2021-gallery-44.webp"
+        }
     ]
-  }
+ }
